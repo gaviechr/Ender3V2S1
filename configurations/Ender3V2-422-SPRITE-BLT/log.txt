@@ -1,0 +1,7 @@
+Configuration Manualy Created for the Professional Firmware
+Author: Christopher Gavalier (c) 2024
+
+Ender3V2-422-SPRITE-BLT/Configuration.h
+Ender3V2-422-SPRITE-BLT/Configuration_adv.h
+Ender3V2-422-SPRITE-BLT/Version.h
+Ender3V2-422-SPRITE-BLT/platformio.ini
